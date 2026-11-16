@@ -9,6 +9,8 @@ conda activate main-ds
 pip install -r requirements.txt
 
 ## Setup Environment - Shell/Terminal
+mkdir "Submission Analisis Fundamental Data"
+cd "Submission Analisis Fundamental Data"
 pip install -r requirements.txt
 
 ## Setup Environment - Shell/Terminal
